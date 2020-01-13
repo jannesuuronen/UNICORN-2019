@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <launch>
 
-	
 <!-- roslaunch arguments -->
 <arg name="debug" default="true"/>
 <arg name="use_gmapping" default="true"/>
